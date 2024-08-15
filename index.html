@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crossword Puzzle Creator</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="panel">
+        <h1>Çocuklar İçin Crossword Bulmacası</h1>
+        <div id="word-list"></div>
+        <textarea id="words-input" placeholder="Kelime1,YeniKelime2,vs..."></textarea>
+        <button class="main-button" onclick="addWords()">Kelimeleri Ekle</button>
+        <button id="toggleHintMode">İpucu Seçim Modunu Aç</button>
+        <button class="main-button" onclick="generateJson()">JSON Oluştur</button>
+    </div>
+    <div id="direction-modal" class="modal">
+        <div class="modal-content">
+            <h2>Yön Seçin</h2>
+            <button class="direction-button" onclick="setDirection('horizontal')">Yatay</button>
+            <button class="direction-button" onclick="setDirection('vertical')">Dikey</button>
+        </div>
+    </div>
+    <div id="word-modal" class="modal">
+        <div class="modal-content">
+            <h2>Kelimeyi Girin</h2>
+            <input type="text" id="word-input" placeholder="Kelimenizi girin...">
+            <button class="main-button" onclick="addWord()">Ekle</button>
+        </div>
+    </div>
+
+    <!-- GRID -->
+    <div id="grid-container">
+        <canvas id="grid"></canvas>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
