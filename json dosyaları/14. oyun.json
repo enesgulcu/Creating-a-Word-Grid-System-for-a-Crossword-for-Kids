@@ -1,0 +1,35 @@
+[
+  {
+    "word": "4",
+    "x": 14,
+    "y": 5,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "517",
+    "x": 13,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "328",
+    "x": 12,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 14,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "word": "6",
+    "x": 13,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  }
+]

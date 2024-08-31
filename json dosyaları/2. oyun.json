@@ -1,0 +1,118 @@
+[
+  {
+    "word": "AS",
+    "x": 16,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "EAT",
+    "x": 16,
+    "y": 7,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "FAT",
+    "x": 14,
+    "y": 7,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "FEE",
+    "x": 14,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 15,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "word": "IT",
+    "x": 12,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "MA",
+    "x": 13,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "MAT",
+    "x": 13,
+    "y": 8,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "PEN",
+    "x": 18,
+    "y": 9,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "RAT",
+    "x": 12,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "SAW",
+    "x": 17,
+    "y": 8,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "SEE",
+    "x": 15,
+    "y": 5,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 15,
+        "y": 5
+      },
+      {
+        "x": 15,
+        "y": 6
+      },
+      {
+        "x": 15,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "word": "TAP",
+    "x": 16,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "WE",
+    "x": 17,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "RID",
+    "x": 12,
+    "y": 9,
+    "direction": "vertical",
+    "hintCells": []
+  }
+]

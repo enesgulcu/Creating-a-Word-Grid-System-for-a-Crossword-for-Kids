@@ -1,0 +1,28 @@
+[
+  {
+    "word": "175",
+    "x": 11,
+    "y": 5,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "8",
+    "x": 11,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "436",
+    "x": 11,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 11,
+        "y": 7
+      }
+    ]
+  }
+]

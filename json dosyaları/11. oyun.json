@@ -1,0 +1,141 @@
+[
+  {
+    "word": "840327516",
+    "x": 10,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "327165084",
+    "x": 10,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "165840732",
+    "x": 10,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "651732840",
+    "x": 10,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 9
+      },
+      {
+        "x": 14,
+        "y": 9
+      },
+      {
+        "x": 15,
+        "y": 9
+      }
+    ]
+  },
+  {
+    "word": "273084165",
+    "x": 10,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 10
+      },
+      {
+        "x": 14,
+        "y": 10
+      },
+      {
+        "x": 15,
+        "y": 10
+      }
+    ]
+  },
+  {
+    "word": "408516327",
+    "x": 10,
+    "y": 11,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 11
+      },
+      {
+        "x": 14,
+        "y": 11
+      },
+      {
+        "x": 15,
+        "y": 11
+      }
+    ]
+  },
+  {
+    "word": "516408273",
+    "x": 10,
+    "y": 12,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 10,
+        "y": 12
+      },
+      {
+        "x": 11,
+        "y": 12
+      },
+      {
+        "x": 12,
+        "y": 12
+      },
+      {
+        "x": 13,
+        "y": 12
+      },
+      {
+        "x": 14,
+        "y": 12
+      },
+      {
+        "x": 15,
+        "y": 12
+      },
+      {
+        "x": 16,
+        "y": 12
+      },
+      {
+        "x": 17,
+        "y": 12
+      },
+      {
+        "x": 18,
+        "y": 12
+      }
+    ]
+  },
+  {
+    "word": "732651408",
+    "x": 10,
+    "y": 13,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "084273651",
+    "x": 10,
+    "y": 14,
+    "direction": "horizontal",
+    "hintCells": []
+  }
+]

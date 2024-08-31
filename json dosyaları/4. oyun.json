@@ -1,0 +1,191 @@
+[
+  {
+    "word": "AIR",
+    "x": 8,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 8,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "DAY",
+    "x": 6,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "MAP",
+    "x": 9,
+    "y": 4,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 9,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "SEA",
+    "x": 20,
+    "y": 8,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "ABLE",
+    "x": 12,
+    "y": 5,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "BATH",
+    "x": 16,
+    "y": 4,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "BEAR",
+    "x": 16,
+    "y": 4,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 16,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "REAL",
+    "x": 18,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "CHAIR",
+    "x": 14,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 14,
+        "y": 6
+      },
+      {
+        "x": 15,
+        "y": 6
+      },
+      {
+        "x": 16,
+        "y": 6
+      },
+      {
+        "x": 17,
+        "y": 6
+      },
+      {
+        "x": 18,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "CLEAR",
+    "x": 14,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 14,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "EAGLE",
+    "x": 10,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 10,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "GEESE",
+    "x": 10,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "RADAR",
+    "x": 18,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 18,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "SHAPE",
+    "x": 6,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 6,
+        "y": 6
+      },
+      {
+        "x": 7,
+        "y": 6
+      },
+      {
+        "x": 8,
+        "y": 6
+      },
+      {
+        "x": 9,
+        "y": 6
+      },
+      {
+        "x": 10,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "SOLID",
+    "x": 6,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 6,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "AREA",
+    "x": 13,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  }
+]

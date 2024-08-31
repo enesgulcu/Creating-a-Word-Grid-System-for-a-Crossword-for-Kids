@@ -1,0 +1,128 @@
+[
+  {
+    "word": "AS",
+    "x": 12,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "AT",
+    "x": 15,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "TO",
+    "x": 17,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "AND",
+    "x": 12,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "ASK",
+    "x": 13,
+    "y": 5,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 5
+      },
+      {
+        "x": 13,
+        "y": 6
+      },
+      {
+        "x": 13,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "word": "BOY",
+    "x": 15,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "FOR",
+    "x": 14,
+    "y": 3,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "INK",
+    "x": 11,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "word": "PET",
+    "x": 16,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "TAB",
+    "x": 15,
+    "y": 5,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "TOP",
+    "x": 16,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "TOY",
+    "x": 18,
+    "y": 8,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "YET",
+    "x": 17,
+    "y": 7,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "ART",
+    "x": 13,
+    "y": 5,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 5
+      }
+    ]
+  }
+]

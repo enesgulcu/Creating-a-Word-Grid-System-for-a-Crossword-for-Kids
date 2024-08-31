@@ -1,0 +1,121 @@
+[
+  {
+    "word": "15",
+    "x": 11,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "32",
+    "x": 15,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "33",
+    "x": 12,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "34",
+    "x": 16,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "124",
+    "x": 13,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "132",
+    "x": 13,
+    "y": 7,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 9
+      }
+    ]
+  },
+  {
+    "word": "143",
+    "x": 17,
+    "y": 9,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "243",
+    "x": 16,
+    "y": 8,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "315",
+    "x": 12,
+    "y": 8,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 12,
+        "y": 9
+      }
+    ]
+  },
+  {
+    "word": "412",
+    "x": 11,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 11,
+        "y": 9
+      },
+      {
+        "x": 12,
+        "y": 9
+      },
+      {
+        "x": 13,
+        "y": 9
+      }
+    ]
+  },
+  {
+    "word": "415",
+    "x": 11,
+    "y": 9,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 11,
+        "y": 9
+      }
+    ]
+  },
+  {
+    "word": "431",
+    "x": 15,
+    "y": 7,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "432",
+    "x": 14,
+    "y": 5,
+    "direction": "vertical",
+    "hintCells": []
+  }
+]

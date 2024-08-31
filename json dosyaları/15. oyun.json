@@ -1,0 +1,51 @@
+[
+  {
+    "word": "7",
+    "x": 13,
+    "y": 4,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 4
+      }
+    ]
+  },
+  {
+    "word": "1510",
+    "x": 12,
+    "y": 5,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 5
+      },
+      {
+        "x": 12,
+        "y": 5
+      }
+    ]
+  },
+  {
+    "word": "394",
+    "x": 11,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "826",
+    "x": 10,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "11",
+    "x": 11,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  }
+]

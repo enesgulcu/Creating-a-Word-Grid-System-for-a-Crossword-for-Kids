@@ -1,0 +1,86 @@
+[
+  {
+    "word": "1",
+    "x": 10,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "1",
+    "x": 12,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "1",
+    "x": 13,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "1",
+    "x": 14,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "3",
+    "x": 12,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "4",
+    "x": 15,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "5",
+    "x": 10,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "6",
+    "x": 11,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "2",
+    "x": 15,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "2",
+    "x": 11,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "2",
+    "x": 14,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "2",
+    "x": 13,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  }
+]

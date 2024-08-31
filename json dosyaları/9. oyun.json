@@ -1,0 +1,119 @@
+[
+  {
+    "word": "816",
+    "x": 12,
+    "y": 4,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 4
+      }
+    ]
+  },
+  {
+    "word": "492",
+    "x": 12,
+    "y": 5,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "357",
+    "x": 12,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 14,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "word": "357168429",
+    "x": 9,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 9,
+        "y": 7
+      },
+      {
+        "x": 11,
+        "y": 7
+      },
+      {
+        "x": 15,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "word": "816924375",
+    "x": 9,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 11,
+        "y": 8
+      },
+      {
+        "x": 17,
+        "y": 8
+      }
+    ]
+  },
+  {
+    "word": "492573861",
+    "x": 9,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 11,
+        "y": 9
+      },
+      {
+        "x": 15,
+        "y": 9
+      }
+    ]
+  },
+  {
+    "word": "249",
+    "x": 12,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 12,
+        "y": 10
+      },
+      {
+        "x": 13,
+        "y": 10
+      },
+      {
+        "x": 14,
+        "y": 10
+      }
+    ]
+  },
+  {
+    "word": "681",
+    "x": 12,
+    "y": 11,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "735",
+    "x": 12,
+    "y": 12,
+    "direction": "horizontal",
+    "hintCells": []
+  }
+]

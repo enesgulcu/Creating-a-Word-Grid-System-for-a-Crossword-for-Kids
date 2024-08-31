@@ -1,0 +1,116 @@
+[
+  {
+    "word": "168357249",
+    "x": 11,
+    "y": 4,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "573492681",
+    "x": 11,
+    "y": 5,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "924816735",
+    "x": 11,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "249168357",
+    "x": 11,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 7
+      },
+      {
+        "x": 12,
+        "y": 7
+      },
+      {
+        "x": 11,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "word": "735924816",
+    "x": 11,
+    "y": 8,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 8
+      },
+      {
+        "x": 11,
+        "y": 8
+      }
+    ]
+  },
+  {
+    "word": "681573492",
+    "x": 11,
+    "y": 9,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 9
+      },
+      {
+        "x": 12,
+        "y": 9
+      },
+      {
+        "x": 11,
+        "y": 9
+      },
+      {
+        "x": 17,
+        "y": 9
+      },
+      {
+        "x": 18,
+        "y": 9
+      },
+      {
+        "x": 19,
+        "y": 9
+      }
+    ]
+  },
+  {
+    "word": "492735168",
+    "x": 11,
+    "y": 10,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "357681924",
+    "x": 11,
+    "y": 11,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "816249573",
+    "x": 11,
+    "y": 12,
+    "direction": "horizontal",
+    "hintCells": []
+  }
+]

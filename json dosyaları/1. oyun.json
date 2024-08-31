@@ -1,0 +1,100 @@
+[
+  {
+    "word": "OF",
+    "x": 15,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "TO",
+    "x": 12,
+    "y": 6,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "FAX",
+    "x": 11,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "FOR",
+    "x": 16,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": []
+  },
+  {
+    "word": "FOG",
+    "x": 13,
+    "y": 5,
+    "direction": "horizontal",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 5
+      },
+      {
+        "x": 14,
+        "y": 5
+      },
+      {
+        "x": 15,
+        "y": 5
+      }
+    ]
+  },
+  {
+    "word": "FOX",
+    "x": 13,
+    "y": 5,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 13,
+        "y": 5
+      }
+    ]
+  },
+  {
+    "word": "GOT",
+    "x": 15,
+    "y": 5,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 15,
+        "y": 5
+      }
+    ]
+  },
+  {
+    "word": "TOY",
+    "x": 15,
+    "y": 7,
+    "direction": "horizontal",
+    "hintCells": []
+  },
+  {
+    "word": "WHO",
+    "x": 14,
+    "y": 3,
+    "direction": "vertical",
+    "hintCells": [
+      {
+        "x": 14,
+        "y": 5
+      }
+    ]
+  },
+  {
+    "word": "TAG",
+    "x": 12,
+    "y": 6,
+    "direction": "vertical",
+    "hintCells": []
+  }
+]
